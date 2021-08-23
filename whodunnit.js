@@ -31,4 +31,4 @@ changeMurderer();
 const verdict = declareMurderer();
 console.log(verdict);
 
-// the return should be ""
+// the return should be "The murderer is Professor Plum"
