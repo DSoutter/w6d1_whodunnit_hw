@@ -31,4 +31,4 @@ changeMurderer();
 const verdict = declareMurderer();
 console.log(verdict);
 
-// the return should be "The murderer is Professor Plum"
+// the return should be error as const murderer already created.
